@@ -4,33 +4,33 @@ img {
     margin: auto;
 }
 
+a {
+    text-decoration: none;
+    color: White;
+}
+
 p {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 100%;
-	font:white;
 	font-style: normal;
 	font-variant: small-caps;
 	font-weight: normal;
-	line-height: 100%;
-}
-a {
-    text-decoration:none;
-    color:white;
 }
 
 .button1 {
-    border:none;
+    line-height: 100%;
+    border: none;
+    color: white;
     text-align: center;
-    color:white;
+    text-decoration: none;
     display: inline-block;
-    width:100%;
-    font-size:40px;
+    width:90%;
+    font-size: 40px;
     border-radius: 8px;
     margin-top:1%;
-    margin-bottom:1%;
-    margin-left:0%;
-    margin-right:0%;
+    margin-left:5%;
+    margin-right:5%;
 }
+
 .button2 {
     line-height:20%;
     border:none;
