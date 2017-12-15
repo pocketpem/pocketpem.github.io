@@ -4,14 +4,6 @@ img {
     margin: auto;
 }
 
-h1 {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 100%;
-}
-
 p {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 100%;
@@ -27,7 +19,6 @@ a {
 }
 
 .button1 {
-    line-height:20%;
     border:none;
     text-align: center;
     color:white;
