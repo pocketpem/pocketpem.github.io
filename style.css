@@ -30,18 +30,3 @@ p {
     margin-left:5%;
     margin-right:5%;
 }
-
-.button2 {
-    line-height:20%;
-    border:none;
-    text-align: center;
-    color:white;
-    display: inline-block;
-    width:80%;
-    font-size:40px;
-    border-radius: 8px;
-    margin-top:1%;
-    margin-bottom:1%;
-    margin-left:10%;
-    margin-right:10%;
-}
