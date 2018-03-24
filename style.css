@@ -30,15 +30,17 @@ p {
     margin-left:5%;
     margin-right:5%;
 }
+
 .button2 {
     line-height: 100%;
     border: none;
     color: white;
-    text-align: left;
+    text-align: center;
     text-decoration: none;
     display: inline-block;
     width:90%;
-    height:80%;
+    height:20%;
+    font-size: 50px;
     border-radius: 8px;
     margin-top:1%;
     margin-left:5%;
@@ -51,12 +53,11 @@ p {
     line-height: 100%;
     border: none;
     color: white;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     display: inline-block;
     width:90%;
-    height:20%;
-    font-size: 50px;
+    height:80%;
     border-radius: 8px;
     margin-top:1%;
     margin-left:5%;
