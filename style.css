@@ -75,6 +75,7 @@ p {
 .container img {
     width: 100%;
     height: auto;
+    margin: auto;
 }
 
 .container .btn {
@@ -83,7 +84,7 @@ p {
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    background-color: #B10057;
+    background-color: transparent;
     color: white;
     font-size: 16px;
     padding: 12px 24px;
