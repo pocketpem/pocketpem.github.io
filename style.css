@@ -3,6 +3,11 @@ img {
     display: block;
     margin: auto;
 }
+img1 {
+    width:100%;
+    display: block;
+    margin: auto;
+}
 
 a {
     text-decoration: none;
