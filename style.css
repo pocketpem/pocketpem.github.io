@@ -78,7 +78,7 @@ p {
 
 .container .btn {
     position: absolute;
-    top: 90%;
+    top: 95%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
@@ -94,8 +94,8 @@ p {
 
 .container .btn1 {
     position: absolute;
-    top: 75%;
-    left: 40%;
+    top: 56%;
+    left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     background-color: transparent;
@@ -110,8 +110,8 @@ p {
 
 .container .btn2 {
     position: absolute;
-    top: 75%;
-    left: 60%;
+    top: 88%;
+    left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     background-color: transparent;
