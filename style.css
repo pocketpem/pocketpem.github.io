@@ -80,13 +80,12 @@ p {
     position: absolute;
     top: 95%;
     left: 50%;
-    max-width:80%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     background-color: transparent;
-    color: white;
-    font-size: 50px;
-    padding: 12px 24px;
+    color: transparent;
+    font-size: 25px;
+    padding: 12px 24;
     border: none;
     cursor: pointer;
     border-radius: 5px;
@@ -95,12 +94,12 @@ p {
 
 .container .btn1 {
     position: absolute;
-    top: 56%;
+    top: 54%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     background-color: transparent;
-    color: white;
+    color: transparent ;
     font-size: 20px;
     padding: 12px 24px;
     border: none;
@@ -111,12 +110,12 @@ p {
 
 .container .btn2 {
     position: absolute;
-    top: 88%;
+    top: 85%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     background-color: transparent;
-    color: white;
+    color: transparent;
     font-size: 20px;
     padding: 12px 24px;
     border: none;
