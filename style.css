@@ -1,0 +1,129 @@
+img {
+    height:100%;
+    display: block;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: White;
+}
+
+p {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: normal;
+}
+
+.button1 {
+    line-height: 100%;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width:90%;
+    font-size: 50px;
+    border-radius: 8px;
+    margin-top:1%;
+    margin-left:5%;
+    margin-right:5%;
+}
+
+.button2 {
+    line-height: 100%;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width:90%;
+    font-size: 50px;
+    border-radius: 8px;
+    margin-top:1%;
+    margin-left:5%;
+    margin-right:5%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+}
+.button3 {
+    line-height: 100%;
+    border: none;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    width:90%;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-top:1%;
+    margin-left:5%;
+    margin-right:5%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+}
+
+.container img {
+    height: 100%;
+    margin: auto;
+}
+
+.container .btn {
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: transparent;
+    font-size: 50px;
+    padding: 12px 24;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.container .btn1 {
+    position: absolute;
+    top: 54%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: transparent ;
+    font-size: 20px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.container .btn2 {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: transparent;
+    font-size: 20px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.container .btn:hover {
+    background-color: transparent;
+}
